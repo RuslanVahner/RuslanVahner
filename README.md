@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am at the beginning of my journey in the world of backend development.I am currently actively seeking internship opportunities or entry-level backend developer positions where I can apply and expand my skills in real-world projects. I am eager to learn, grow, and contribute to the success of your team. Thank you for your attention to my profile! I look forward to being a part of your project and building great products together.
 
 *   🌍  I'm based in Germany 
-*   ✉️  You can contact me at [ruslan.vahner04@gmail.com](mailto:ruslan.vahner04@gmail.com)
-*   <a href="https://www.github.com/RuslanVahner" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RuslanVahner?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
