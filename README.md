@@ -6,12 +6,12 @@ I am at the beginning of my journey in the world of backend development.I am cur
 *   🌍  I'm based in Germany 
 *   ✉️  You can contact me at [ruslan.vahner04@gmail.com](mailto:ruslan.vahner04@gmail.com)
 *   <a href="https://www.github.com/RuslanVahner" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RuslanVahner?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 
 ### Socials
-
 <p align="left">
   <a href="https://discord.com/users/vahner04" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
