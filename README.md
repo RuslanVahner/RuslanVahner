@@ -27,16 +27,11 @@ I am at the beginning of my journey in the world of backend development.I am cur
 
 
 
-### Badges
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RuslanVahner"><img src="https://github-readme-stats.vercel.app/api?username=RuslanVahner&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="RuslanVahner's GitHub stats" /></a>
 
-<a href="http://www.github.com/RuslanVahner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuslanVahner&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/RuslanVahner"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RuslanVahner&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/RuslanVahner" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanVahner&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-            
-                   
