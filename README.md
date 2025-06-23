@@ -1,13 +1,33 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan
+Mein Name ist Ruslan
 ==============================================================================================================================
 
-I am at the beginning of my journey in the world of backend development.I am currently actively seeking internship opportunities or entry-level backend developer positions where I can apply and expand my skills in real-world projects. I am eager to learn, grow, and contribute to the success of your team. Thank you for your attention to my profile! I look forward to being a part of your project and building great products together.
+Ich stehe am Anfang meiner Reise in die Welt der Backend-Entwicklung. Derzeit bin ich aktiv auf der Suche nach Praktikumsstellen oder Einstiegspositionen als Java Backend Developer, um meine Fähigkeiten in realen Projekten anzuwenden und weiter auszubauen.
 
-*   🌍  I'm based in Germany 
+Ich bin lernbereit, engagiert und freue mich darauf, Ihr Team zu unterstützen und zum Erfolg Ihres Unternehmens beizutragen. Vielen Dank für Ihr Interesse an meinem Profil! Ich freue mich darauf, Teil Ihres Projekts zu sein und gemeinsam großartige Produkte zu entwickeln.
+*   🌍  Ich lebe in Deutschland
 
-### Skills 
+### 🛠 Fähigkeiten
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="36" alt="Spring Boot" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="36" alt="Hibernate" />
+  </a>
+</p>
+
 
 ### Socials
 <p align="left">
