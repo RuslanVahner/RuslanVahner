@@ -34,9 +34,6 @@ Ich bin lernbereit, engagiert und freue mich darauf, Ihr Team zu unterstützen u
   <a href="https://discord.com/users/vahner04" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/RuslanVahner" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.linkedin.com/in/ruslan-vahner-1444b22ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
