@@ -50,6 +50,10 @@ Vielen Dank für Ihr Interesse an meinem Profil! Ich freue mich darauf, Teil Ihr
   <a href="mailto:ruslan.vahner04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
   </a>
+  <a href="https://t.me/vahner04" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;" />
+</a>
+
 </p>
 
 ---
